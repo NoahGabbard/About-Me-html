@@ -1,11 +1,9 @@
-# hello-html
-Introduction to HTML/HTML Assignment
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
+    About: Noah Gabbard
 </head>
 <body>
     <h1>Noah Michael Gabbard</h1>
